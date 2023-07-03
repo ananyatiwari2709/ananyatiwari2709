@@ -1,6 +1,5 @@
 ### Hey there! 👋
-### This in Ananya Tiwari.
-### I'm currently pursuing BTech degree from NIT Raipur  
+### This in Ananya. I'm a final year BTech undergraduate at NIT Raipur.😄  
 <!--
 **ananyatiwari2709/ananyatiwari2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
